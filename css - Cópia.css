@@ -1,0 +1,81 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.bs{
+	position:fixed;
+	width: 100%;
+	height: 51px;
+	background-color: blue;
+	border: 0px solid black;
+}
+
+.list li{
+	display: inline-flex;
+	color: white;
+	list-style-type: none;
+	padding: 17px;
+	margin:0; 
+}
+.list li:hover{
+background-color: white;
+color: black;
+cursor: pointer;
+}
+
+.backg{
+
+	width: 100%;
+	height: 519px;
+
+}
+.bg{
+	width: 25%;
+	height: 300px;
+	margin-top: 75px;
+	margin-left: 37.5%;
+}
+
+
+
+.principal{
+	width: 99.4%;
+	height:	200px;
+	border: 5px solid black;
+	float: left;
+
+
+}
+.pika{
+	border: 2px solid black;
+	margin-left: 5%;
+	margin-top: 1%;
+	width: 25%;
+	height: 80%;
+	float: left;
+
+}
+.img1{
+	width: 100%;
+	height: 160px;
+}
+div.final{
+	clear: both;
+	width: 100%;
+	height: 200px;
+}
+h2{
+	color: black;
+
+	text-align: center;
+	font-family: 'Arial', sans-serif;
+}
+.medidor{
+	
+border: 2px solid black;
+	margin-left: 5%;
+	margin-top: 1%;
+	width: 25%;
+	height: 80%;
+	float: left;
+}

@@ -5,3 +5,8 @@ ProjetoSiteRmsNet
 2. AZUL COMO COR PREDOMINANTE
 3. COLOCAR TESTE DE VELOCIDADE
 4. ADICIONAR IMPRESSAO DE BOLETOS
+5. 
+
+## Paleta de Cores
+
+O site tem como objetivo o Azul
