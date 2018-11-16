@@ -8,4 +8,6 @@ O site tem como objetivo simplificar a maneira de comunicação entre cliente e 
 
 ## Paleta de Cores
 
-O site tem como objetivo o Azul
+1-Azul
+2-Amarelo
+3-Branco
