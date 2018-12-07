@@ -8,6 +8,6 @@ O site tem como objetivo simplificar a maneira de comunicação entre cliente e 
 
 ## Paleta de Cores
 
-1-Azul
-2-Amarelo
-3-Branco
+1 cor - 37287F
+2 cor - EFF9FF
+3 cor - 001440
